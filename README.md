@@ -43,15 +43,6 @@ Arquitetura de aplicações • APIs REST • Boas práticas de código • Git 
 
 ---
 
-### 📊 Estatísticas
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=salmodev-41&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmodev-41&layout=compact&theme=tokyonight" />
-</div>
-
----
-
 ### 📫 Onde me encontrar
 
 <div align="center">
