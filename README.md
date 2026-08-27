@@ -1,16 +1,51 @@
-## Hi there 👋
+# Olá! Eu sou Salmo Gabriel 
 
-<!--
-**salmodev-41/salmodev-41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Dev em Formação
 
-Here are some ideas to get you started:
+🎓 Estudante de Engenharia de Software  
+💻 Focado em desenvolvimento FullStack  
+💼 Jovem Aprendiz no Grupo Hobi  
+🚀 Sempre buscando evoluir meus conhecimentos e minhas práticas de desenvolvimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Conhecimento básico em:
+
+### Backend
+- Kotlin
+- Spring Boot
+- Hibernate / JPA
+- APIs REST
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+
+### Banco de Dados
+- PostgreSQL
+- SQL
+
+### Ferramentas
+- Git
+- GitHub
+- IntelliJ IDEA
+- VS Code
+- Postman
+
+---
+
+## 📖 Atualmente estudando
+
+- Java
+- Docker
+- Desenvolvimento FullStack
+- APIs REST
+- Arquitetura de aplicações
+- Banco de dados
+- Boas práticas de programação
+- Git e GitHub
+
+---
+
+## 🔗 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/salmo-gabriel-571378399/)
